@@ -41,8 +41,11 @@ URL ──▶ [추출가] ──▶ [요약가] ──▶ [검증가] ──▶ 
 ## 설치
 
 ```bash
-# GitHub 저장소에서 설치
-/plugins install https://github.com/jgkwon-boot/summary
+# 마켓플레이스 등록
+claude plugin marketplace add summary-team https://github.com/jgkwon-boot/summary
+
+# 플러그인 설치
+/plugins install summary@summary-team
 
 # 로컬 경로에서 설치
 /plugins install ./path/to/summary
