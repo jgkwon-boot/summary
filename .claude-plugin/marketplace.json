@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "summary-team",
+  "name": "summary-marketplace",
   "version": "1.0.0",
   "description": "summary 팀 플러그인 마켓플레이스",
   "owner": {
