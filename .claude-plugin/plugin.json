@@ -1,0 +1,14 @@
+{
+  "name": "summary",
+  "version": "0.1.0",
+  "description": "AI 뉴스 URL을 받아 팀원용 아침 뉴스 요약 레포트를 자동 생성하는 플러그인. 추출→요약→검증 3단계 파이프라인으로 고품질 한국어 요약 제공.",
+  "author": {
+    "name": "summary team"
+  },
+  "homepage": "https://github.com/jgkwon-boot/summary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgkwon-boot/summary.git"
+  },
+  "keywords": ["news", "summary", "ai", "korean", "productivity"]
+}
