@@ -6,9 +6,6 @@
     "name": "summary team"
   },
   "homepage": "https://github.com/jgkwon-boot/summary",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jgkwon-boot/summary.git"
-  },
+  "repository": "https://github.com/jgkwon-boot/summary",
   "keywords": ["news", "summary", "ai", "korean", "productivity"]
 }
