@@ -10,7 +10,7 @@
     {
       "name": "summary",
       "description": "AI 뉴스 URL을 받아 팀원용 아침 뉴스 요약 레포트를 자동 생성. 추출→요약→검증 파이프라인 기반.",
-      "source": "jgkwon-boot/summary",
+      "source": ".",
       "category": "productivity"
     }
   ]
